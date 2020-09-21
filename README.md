@@ -1,4 +1,22 @@
+~ cat ~/hello-world.txt
+I'm Vero 👋
 
+I like:
+🚗 Travelling
+🐶 Animals
+🏐 Sports
+🍿 Netflix
+🍳 Cooking
+🥑 Eating
+📚 Reading
+🎧 Music
+💻 Coding
+
+I care about:
+🌈 LGBT+ and 👩🏼 💪🏻 Women rights
+
+Ask me about anything! ^^
+<!--
              ________________________________________________
             /                                                \
            |    _________________________________________     |
@@ -28,8 +46,6 @@
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
 
-
-<!--
 **glebapps/glebapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
