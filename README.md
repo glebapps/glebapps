@@ -2,18 +2,18 @@
 I'm Vero 👋
 
 I like:
-🚗 Travelling
-🐶 Animals
-🏐 Sports
-🍿 Netflix
-🍳 Cooking
-🥑 Eating
-📚 Reading
-🎧 Music
-💻 Coding
+- 🚗 Travelling
+- 🐶 Animals
+- 🏐 Sports
+- 🍿 Netflix
+- 🍳 Cooking
+- 🥑 Eating
+- 📚 Reading
+- 🎧 Music
+- 💻 Coding
 
 I care about:
-🌈 LGBT+ and 👩🏼 💪🏻 Women rights
+- 🌈 LGBT+ and 👩🏼 💪🏻 Women rights
 
 Ask me about anything! ^^
 <!--
